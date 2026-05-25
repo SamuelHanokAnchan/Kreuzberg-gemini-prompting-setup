@@ -161,9 +161,3 @@ Samuel Hanok
 
 MSc Applied Data Science & Analytics
 
-Interested in:
-- AI Infrastructure
-- LLM Systems
-- Production AI Engineering
-- Data Engineering
-- Machine Learning Systems
